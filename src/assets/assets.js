@@ -19,6 +19,15 @@ import footerImg from "./footer-bg.jpeg";
 import formBg from "./form-bg.jpeg";
 import leftSideImg from "./left-side-img.png";
 import leftSideImg2 from "./left-side-img2.svg";
+import calendar from "./calender.svg";
+import play from "./Play.svg";
+import twitter from "./twitter-round-new-alt.svg";
+import sort from "./sort.svg";
+import reviewImg from "./review-img.png";
+import leftSideImg3 from "./left-img-3.png";
+import rightSideImg2 from "./right-bg.png";
+import userImg from "./user-img.png";
+import quat from "./quat.png";
 
 export {
   call,
@@ -42,4 +51,13 @@ export {
   leftSideImg,
   leftSideImg2,
   formBg,
+  calendar,
+  play,
+  twitter,
+  sort,
+  reviewImg,
+  leftSideImg3,
+  rightSideImg2,
+  userImg,
+  quat,
 };

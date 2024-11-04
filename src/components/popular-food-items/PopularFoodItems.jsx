@@ -12,7 +12,7 @@ import { Container } from "../Container";
 
 export const PopularFoodItems = () => {
   return (
-    <div className="relative bg-[#FBF7F2] h-[710px] px-4 py-12 overflow-hidden flex items-center">
+    <div className="relative bg-[#FBF7F2] px-4 py-[120px] overflow-hidden flex items-center">
       <Container className="w-full">
         {/* Decorative Shape */}
         <div className="absolute left-0 top-0 h-full w-32">

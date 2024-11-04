@@ -5,7 +5,7 @@ import { bag, call, medal, packageIcon } from "../../assets/assets";
 
 export const FoodExperience = () => {
   return (
-    <div className="min-h-screen md:h-[864px] bg-white flex items-center relative overflow-hidden">
+    <div className="min-h-screen py-[120px] bg-white flex items-center relative overflow-hidden">
       {/* Main Content */}
       <Container className="z-10">
         <div className="px-4 py-12">
