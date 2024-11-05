@@ -28,6 +28,7 @@ import leftSideImg3 from "./left-img-3.png";
 import rightSideImg2 from "./right-bg.png";
 import userImg from "./user-img.png";
 import quat from "./quat.png";
+import heroBG from "./hero-bg.png";
 
 export {
   call,
@@ -60,4 +61,5 @@ export {
   rightSideImg2,
   userImg,
   quat,
+  heroBG,
 };
