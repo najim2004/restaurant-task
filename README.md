@@ -59,13 +59,13 @@ The project follows a clean and organized structure to make it easy to navigate 
 
 ## Screenshots
 
-### Mobile Preview
-
-![Mobile Preview](./src/assets/moblie-view.png)
-
 ### Desktop Preview
 
 ![Desktop Preview](./src/assets/desktop-view.png)
+
+### Mobile Preview
+
+![Mobile Preview](./src/assets/moblie-view.png)
 
 ## Contact With Me
 
@@ -73,4 +73,4 @@ If you have any questions, feedback, or would like to collaborate, feel free to 
 
 - **Email**: [najim.developer@gmail.com](mailto:najim.developer@gmail.com)
 - **Portfolio**: [najim2004](https://najim-dev.vercel.app)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/mohammad-najim2004)
+- **LinkedIn**: [in/mohammad-najim2004](https://linkedin.com/in/mohammad-najim2004)
