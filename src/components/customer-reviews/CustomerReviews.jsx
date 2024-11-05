@@ -4,6 +4,7 @@ import {
   arrowRight,
   leftSideImg2,
   leftSideImg3,
+  quat,
   reviewImg,
   rightSideImg2,
   userImg,
@@ -48,6 +49,7 @@ export const CustomerReviews = () => {
                 className="absolute bottom-10 left-0"
               />
               <div className="relative flex flex-col h-full text-[#0A1425]">
+                <img src={quat} alt="" className="-ml-6 w-max" />
                 <p className="text-xl leading-[34px] flex-grow">
                   You can't go wrong with Chicken Mandi, I had it twice. The
                   chicken was cooked perfectly, juicy & soft (usually mandi
